@@ -1,0 +1,2 @@
+# Patika_Bootcamp_Acceleration
+ All_examples_in_education
